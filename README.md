@@ -1,6 +1,3 @@
-# House-Prices-Advanced-Regression-Techniques
-In this noteebook, I will use RandomForestRegressor for predict the SalePrice of eah house
-
 # House Prices Advanced Regression Techniques
 
 In this notebook, I will use the `RandomForestRegressor` model to predict the `SalePrice` of each house in the dataset. This is a **regression problem** where we aim to estimate a continuous variable (the sale price) based on various characteristics of each property.
